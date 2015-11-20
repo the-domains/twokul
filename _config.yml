@@ -1,0 +1,28 @@
+name: twokul
+favicon: null
+layout_spectrum: 0.7719075179193169
+typography_spectrum: 0.7010612345766276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.022445222828537226
+  lightness: 0.5786097636446357
+  saturation: 0.8794428794644773
+  rhythmicContrast: 0.23908742633648217
+purpose: []
